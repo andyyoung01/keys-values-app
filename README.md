@@ -1,5 +1,7 @@
 # Keys and Values App
 
+此repository是[Apache Mesos(7)-Marathon的高级应用](https://andyyoung01.github.io/2016/08/03/Apache-Mesos-7-Marathon%E7%9A%84%E9%AB%98%E7%BA%A7%E5%BA%94%E7%94%A8/)的示例代码。对Mesos in Action的[keys-values-app](https://github.com/rji/mesos-in-action-code-samples/tree/master/keys-values-app)的Bundle源进行了替换，替换为阿里云镜像，使国内下载速度更快。
+
 A simple Ruby web application (implemented using the Sinatra framework) that
 stores key/value pairs in a Redis database.
 
